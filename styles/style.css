@@ -41,7 +41,7 @@
 .nav__link {
   color: #000000;
   text-decoration: none;
-  /*font-weight: bold; */
+
 }
 
 .header__content {
@@ -55,7 +55,7 @@
   line-height: 76px;
   font-weight: 500;
   margin: 128px 0px 0px;
-  /*padding-top: 128px;*/
+
 }
 
 .header__description {
@@ -63,7 +63,7 @@
   font-size: 20px;
   line-height: 30px;
   margin: 32px 0 0;
-  /*padding-top: 32px;*/
+
 }
 
 .header__image {
