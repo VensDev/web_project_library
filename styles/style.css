@@ -346,18 +346,20 @@
 
 .footer__columns {
   color: #fff;
+  display:flex;
 
 }
 .footer__column{
-  display: flex;
-
+  width: 58px;
+  height: 80px;
+ /* sinceramente tendi nada para que serve o footer__column */
 }
 
-.footer__column_content_hours {
+.footer__column-content_hours {
   margin: 0 80px 0 auto;
 }
 
-.footer__column_content_social {
+.footer__column-content_social {
   margin: 0;
   padding: 0;
 }
@@ -399,4 +401,5 @@
 
 .footer__copyright {
   margin: 100px 0 0;
+  color: #fff;
 }
