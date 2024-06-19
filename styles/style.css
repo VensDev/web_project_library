@@ -345,21 +345,18 @@
 }
 
 .footer__columns {
-  color: #fff;
   display:flex;
 
 }
 .footer__column{
-  width: 58px;
-  height: 80px;
- /* sinceramente tendi nada para que serve o footer__column */
+ color: #fff;
 }
 
-.footer__column__content--hours {
+.footer__column_content_hours {
   margin: 0 80px 0 auto;
 }
 
-.footer__column__content--social {
+.footer__column_content_social {
   margin: 0;
   padding: 0;
 }
