@@ -355,11 +355,11 @@
  /* sinceramente tendi nada para que serve o footer__column */
 }
 
-.footer__column-content_hours {
+.footer__column__content--hours {
   margin: 0 80px 0 auto;
 }
 
-.footer__column-content_social {
+.footer__column__content--social {
   margin: 0;
   padding: 0;
 }
