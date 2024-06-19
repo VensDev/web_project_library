@@ -341,6 +341,7 @@
 .footer {
   box-sizing: border-box;
   background-color: #1f1f1f;
+  color: #1f1f1f;
   padding: 60px 80px;
 }
 
@@ -349,7 +350,7 @@
 
 }
 .footer__column{
- color: #fff;
+ color: #ffffff;
 }
 
 .footer__column_content_hours {
